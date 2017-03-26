@@ -1,0 +1,6 @@
+{"jobs" : [
+  { "hour" :  8 , "min" :  0, "sec" : 0, "Mon":1, "Tue":1, "Wed":1, "Thu":1, "Fri":1, "Sat":0, "Sun":0, "js":"goodMorning.js" },
+  { "hour" : 12 , "min" : 10, "sec" : 1, "Mon":1, "Tue":1, "Wed":1, "Thu":1, "Fri":1, "Sat":1, "Sun":1, "js":"goodAfternoon.js"},
+  { "hour" : 17 , "min" : 30, "sec" : 2, "Mon":0, "Tue":0, "Wed":0, "Thu":0, "Fri":0, "Sat":1, "Sun":1, "js":"goodNight.js"}
+  ]
+}
